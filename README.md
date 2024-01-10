@@ -8,10 +8,12 @@ BUI is a Webapp UI component development framework based on jQuery or Zepto, wit
 
 ![image](https://github.com/imouou/imouou/assets/8435328/35e3e4c5-9f05-4ef4-9a8f-d020f483aac1)
 
-
 [BUI 性能测试](https://www.easybui.com/bui-test/index.html)
 
-百搭在线开发构建：[https://www.easybui.com/baida](https://www.easybui.com/baida)
+[BUI Demo](https://www.easybui.com/demo/)
+
+[模板在线开发构建](https://www.easybui.com/baida/)
+
 
 <!--
 
