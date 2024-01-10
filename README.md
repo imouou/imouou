@@ -2,7 +2,7 @@
 
 BUI：[https://www.easybui.com/](https://www.easybui.com/) 
 
-<img width="1268" alt="image" src="https://github.com/imouou/imouou/assets/8435328/b4891019-092a-464e-9d63-05bfeb533f45">
+![image](https://github.com/imouou/imouou/assets/8435328/35e3e4c5-9f05-4ef4-9a8f-d020f483aac1)
 
 
 [BUI 性能测试](https://www.easybui.com/bui-test/index.html)
