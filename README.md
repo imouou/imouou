@@ -17,12 +17,11 @@ BUI：[https://www.easybui.com/](https://www.easybui.com/)
 .section-part .section-part-detail {font-size:16px;}
 </style>
 <section class="section section-detail">
-    <!-- <div class="section-content">
+    <div class="section-content">
         <div>BUI是一个更快的组件开发框架，<br />专注WebApp快速开发，完美嵌入各平台或独立打包。</div>
-    </div> -->
+    </div>
     <h2 class=" wow fadeInUp">八大特点</h2>
     <div class="container" style="margin-bottom:50px;">
-<!-- iphone demo -->
          <div class="oui-fluid-space">
             <div class="span3">
                 <div class="section-part wow fadeInUpBig" data-wow-delay="0.1s">
