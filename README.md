@@ -6,6 +6,18 @@ BUI 是基于jQuery或者Zepto的Webapp UI组件开发框架，双向状态管�
 
 BUI is a Webapp UI component development framework based on jQuery or Zepto, with bidirectional state management, path-based routing and dynamic component loading, rich template ecological resources, and zero configuration out of the box
 
+#### 八大特点
+
+
+- 开箱零配置：一行代码构建即可构建工程开发
+- 高性能视图：每个组件按需加载，无需拆包。
+- 跨平台适配：一次开发，跨平台全适配
+- HTML模板：传统HTML，JS，ES模板一看就懂
+- 模块化：支持AMD异步模块，全局模块，ES同步模块
+- 轻组件：轻量路径式组件，按需加载，可单独预览调试
+- 数据驱动：通过数据跟视图的绑定关系，自动更新（无虚拟Dom）
+- 单/多页路由：单页SPA零配置路径式路由、传统多页面路由，简单高效
+
 ![image](https://github.com/imouou/imouou/assets/8435328/35e3e4c5-9f05-4ef4-9a8f-d020f483aac1)
 
 <a href="https://www.easybui.com/bui-test/index.html" target="_blank" title="BUI 性能测试">BUI 性能测试</a> ｜ 
