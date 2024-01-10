@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=imouou&show_icons=true&theme=radical)
+BUI：[https://www.easybui.com/](https://www.easybui.com/) 
+
+[BUI 性能测试](https://www.easybui.com/bui-test/index.html)
+
+<img width="1268" alt="image" src="https://github.com/imouou/imouou/assets/8435328/b4891019-092a-464e-9d63-05bfeb533f45">
+
+百搭在线开发构建：[https://www.easybui.com/baida](https://www.easybui.com/baida)
 
 <!--
 **imouou/imouou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
