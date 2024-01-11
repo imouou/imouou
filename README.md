@@ -17,6 +17,9 @@ BUI is a Webapp UI component development framework based on jQuery or Zepto, wit
 - 轻组件：轻量路径式组件，按需加载，可单独预览调试
 - 数据驱动：通过数据跟视图的绑定关系，自动更新（无虚拟Dom）
 - 单/多页路由：单页SPA零配置路径式路由、传统多页面路由，简单高效
+- less/sass：支持常用样式编译，默认为less
+- 高保真还原：等比还原设计稿，应对不同手机分辨率下的适配问题
+- 多种引用：支持NPM引入，Script传统引入，方便嵌入第三方
 
 ![image](https://github.com/imouou/imouou/assets/8435328/35e3e4c5-9f05-4ef4-9a8f-d020f483aac1)
 
@@ -79,8 +82,8 @@ BUI is a Webapp UI component development framework based on jQuery or Zepto, wit
                     <div class="section-part-img"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-grid-1x2" viewbox="0 0 16 16">
   <path d="M6 1H1v14h5V1zm9 0h-5v5h5V1zm0 9v5h-5v-5h5zM0 1a1 1 0 0 1 1-1h5a1 1 0 0 1 1 1v14a1 1 0 0 1-1 1H1a1 1 0 0 1-1-1V1zm9 0a1 1 0 0 1 1-1h5a1 1 0 0 1 1 1v5a1 1 0 0 1-1 1h-5a1 1 0 0 1-1-1V1zm1 8a1 1 0 0 0-1 1v5a1 1 0 0 0 1 1h5a1 1 0 0 0 1-1v-5a1 1 0 0 0-1-1h-5z" />
 </svg></div>
-                    <div class="section-part-title">简单快定制</div>
-                    <div class="section-part-detail">简单定制1:1模板组件</div>
+                    <div class="section-part-title">高保真还原</div>
+                    <div class="section-part-detail">等比还原设计稿，应对不同手机分辨率下的适配问题</div>
                 </div>
             </div>
             <div class="span3">
