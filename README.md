@@ -2,11 +2,11 @@
 
 BUI：[https://www.easybui.com/](https://www.easybui.com/) 
 
-BUI 是基于jQuery或者Zepto的Webapp UI组件开发框架，双向状态管理，路径式路由和动态组件加载，丰富的模板生态资源，开箱即用零配置，一次开发跨平台、完美嵌入企业微信、小程序、公众号、钉钉、link等平台或通过Cordova、Dcloud、鸿蒙、Flutter打包独立 APP。
+BUI 是基于jQuery4或者Zepto的Webapp UI组件开发框架，双向状态管理，路径式路由和动态组件加载，丰富的模板生态资源，开箱即用零配置，一次开发跨平台、完美嵌入企业微信、小程序、公众号、钉钉、link等平台或通过Cordova、Dcloud、鸿蒙、Flutter打包独立 APP。
 
 BUI is a Webapp UI component development framework based on jQuery or Zepto, with bidirectional state management, path-based routing and dynamic component loading, rich template ecological resources, and zero configuration out of the box
 
-#### 八大特点
+#### 特点
 
 
 - 开箱零配置：一行代码构建即可构建工程开发
